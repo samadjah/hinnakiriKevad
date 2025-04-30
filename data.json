@@ -1,0 +1,988 @@
+[
+  {
+    "nameLatin": "Liatris spicata",
+    "nameEst": "Tähkjas liatris",
+    "sort": "Irma",
+    "konteinerL": "C3",
+    "hind": "6"
+    },
+    {
+    "nameLatin": "Iris siberica",
+    "nameEst": "Siberi iiris",
+    "sort": "Irma",
+    "konteinerL": "saadaval juunis",
+    "hind": "6"
+    },
+    {
+    "nameLatin": "iris siberica",
+    "nameEst": "Siberi iiris",
+    "sort": "Irma",
+    "konteinerL": "C3,5",
+    "hind": "6"
+    },
+    {
+    "nameLatin": "Hemerocallis fulva",
+    "nameEst": "Ruuge päevaliilia",
+    "sort": "Irma",
+    "konteinerL": "juuni",
+    "hind": "4"
+    },
+    {
+    "nameLatin": "Phlox paniculata",
+    "nameEst": "Floks/ leeklill",
+    "sort": "Irma roosa",
+    "konteinerL": "C3.5",
+    "hind": "6"
+    },
+    {
+    "nameLatin": "Bergenia cordifolia",
+    "nameEst": "Südajalehine bergeenia",
+    "sort": "Irma roosa",
+    "konteinerL": "juuni",
+    "hind": "4"
+    },
+    {
+    "nameLatin": "Astrantia major",
+    "nameEst": "Suur tähtputk",
+    "sort": "Irma punane",
+    "konteinerL": "C3",
+    "hind": "6"
+    },
+    {
+    "nameLatin": "Phlox paniculata",
+    "nameEst": "Floks/ leeklill",
+    "sort": "Irma Roosa, keskmine",
+    "konteinerL": "C3",
+    "hind": "6"
+    },
+    {
+    "nameLatin": "Astilbe",
+    "nameEst": "Astilbe",
+    "sort": "Irma Roosa, madal",
+    "konteinerL": "C3",
+    "hind": "6"
+    },
+    {
+    "nameLatin": "Paeonia",
+    "nameEst": "Pojeng",
+    "sort": "Irma segu",
+    "konteinerL": "C7",
+    "hind": "12"
+    },
+    {
+    "nameLatin": "Paeonia",
+    "nameEst": "Pojeng",
+    "sort": "Irma segu",
+    "konteinerL": "juuni",
+    "hind": "12"
+    },
+    {
+    "nameLatin": "Phlox paniculata",
+    "nameEst": "Floks/ leeklill",
+    "sort": "Irma valge",
+    "konteinerL": "C3",
+    "hind": "6"
+    },
+    {
+    "nameLatin": "Hemerocallis fulva",
+    "nameEst": "Ruuge päevaliilia",
+    "sort": "Irma",
+    "konteinerL": "C3",
+    "hind": "6"
+    },
+    {
+    "nameLatin": "Ligularia dentata",
+    "nameEst": "Hambuline kobarpea",
+    "sort": "Irma",
+    "konteinerL": "C2",
+    "hind": "4"
+    },
+    {
+    "nameLatin": "Eupatorium ",
+    "nameEst": "Vesikanep",
+    "sort": "Irma",
+    "konteinerL": "C3",
+    "hind": "6"
+    },
+    {
+    "nameLatin": "Eupatorium ",
+    "nameEst": "Vesikanep",
+    "sort": "Irma",
+    "konteinerL": "C5",
+    "hind": "8"
+    },
+    {
+    "nameLatin": "Helenium autumnale",
+    "nameEst": "Sügisheleenium",
+    "sort": "Irma",
+    "konteinerL": "C3",
+    "hind": "6"
+    },
+    {
+    "nameLatin": "Trollius europaeus",
+    "nameEst": "Harilik kullerkupp",
+    "sort": "Irma",
+    "konteinerL": "C2",
+    "hind": "4"
+    },
+    {
+    "nameLatin": "Hemerocallis",
+    "nameEst": "Aed-päevaliilia",
+    "sort": "Irma",
+    "konteinerL": "C3",
+    "hind": "6"
+    },
+    {
+    "nameLatin": "Aconitum napellus",
+    "nameEst": "Sinine käoking",
+    "sort": "Irma",
+    "konteinerL": "C3",
+    "hind": "6"
+    },
+    {
+    "nameLatin": "Hemerocallis",
+    "nameEst": "Aed-päevaliilia",
+    "sort": "Irma",
+    "konteinerL": "C3",
+    "hind": "6"
+    },
+    {
+    "nameLatin": "Heliopsis helianthoides",
+    "nameEst": "Kare päikesesilm",
+    "sort": "Irma",
+    "konteinerL": "juuni",
+    "hind": "4"
+    },
+    {
+    "nameLatin": "Iris × germanica",
+    "nameEst": "Aediiris",
+    "sort": "Irma",
+    "konteinerL": "juuni",
+    "hind": "4"
+    },
+    {
+    "nameLatin": "Iris spuria L. ",
+    "nameEst": "Sooiiris",
+    "sort": "Irma",
+    "konteinerL": "C3,5",
+    "hind": "6"
+    },
+    {
+    "nameLatin": "Hemerocallis citrina",
+    "nameEst": "Sidrunkollane päevaliilia",
+    "sort": "Irma",
+    "konteinerL": "C4",
+    "hind": "6"
+    },
+    {
+      "nameLatin": "Phlox paniculata",
+      "nameEst": "Floks/ leeklill",
+      "sort": "Irma punane mustast kastist",
+      "konteinerL": "C3",
+      "hind": "6"
+      },
+      {
+      "nameLatin": "Helenium autumnale",
+      "nameEst": "Sügisheleenium",
+      "sort": "Irma",
+      "konteinerL": "C3",
+      "hind": "6"
+      },
+      {
+      "nameLatin": "Trollius europaeus",
+      "nameEst": "Harilik kullerkupp",
+      "sort": "Irma",
+      "konteinerL": "C2",
+      "hind": "4"
+      },
+      {
+      "nameLatin": "Centaurea dealbata",
+      "nameEst": "Valkjas jumikas",
+      "sort": "Irma hall",
+      "konteinerL": "juuni",
+      "hind": "4"
+      },
+      {
+      "nameLatin": "Heliopsis helianthoides",
+      "nameEst": "Kare päikesesilm",
+      "sort": "Irma",
+      "konteinerL": "juuni",
+      "hind": "4"
+      },
+      {
+      "nameLatin": "Astrantia major",
+      "nameEst": "Suur tähtputk",
+      "sort": "Irma metsaäärets",
+      "konteinerL": "pj",
+      "hind": "4"
+      },
+      {
+      "nameLatin": "Hemerocallis",
+      "nameEst": "Aed-päevaliilia",
+      "sort": "Irma kollane?",
+      "konteinerL": "C3",
+      "hind": "4"
+      },
+      {
+      "nameLatin": "Hosta",
+      "nameEst": "Hosta",
+      "sort": "Irma Suur roheline",
+      "konteinerL": "juuni",
+      "hind": "4"
+      },
+      {
+      "nameLatin": "Hosta",
+      "nameEst": "Hosta",
+      "sort": "Irma üks",
+      "konteinerL": "pj",
+      "hind": "4"
+      },
+      {
+      "nameLatin": "Hosta",
+      "nameEst": "Hosta",
+      "sort": "Irma üks",
+      "konteinerL": "pj",
+      "hind": "4"
+      },
+      {
+      "nameLatin": "Liatris spicata",
+      "nameEst": "Tähkjas liatris",
+      "sort": "Irma",
+      "konteinerL": "C3",
+      "hind": "6"
+      },
+      {
+      "nameLatin": "Iris siberica",
+      "nameEst": "Siberi iiris",
+      "sort": "Irma",
+      "konteinerL": "juuni",
+      "hind": "6"
+      },
+      {
+      "nameLatin": "Hemerocallis",
+      "nameEst": "Aed-päevaliilia",
+      "sort": "Irma Midendorff",
+      "konteinerL": "juuni",
+      "hind": "6"
+      },
+      {
+      "nameLatin": "iris siberica",
+      "nameEst": "Siberi iiris",
+      "sort": "Irma",
+      "konteinerL": "C3,5",
+      "hind": "6"
+      },
+      {
+      "nameLatin": "Phlox paniculata",
+      "nameEst": "Floks/ leeklill",
+      "sort": "Irma roosa",
+      "konteinerL": "C3.5",
+      "hind": "6"
+      },
+      {
+      "nameLatin": "Bergenia cordifolia",
+      "nameEst": "Südajalehine bergeenia",
+      "sort": "Irma roosa",
+      "konteinerL": "juuni",
+      "hind": "4"
+      },
+      {
+      "nameLatin": "Astrantia major",
+      "nameEst": "Suur tähtputk",
+      "sort": "Irma punane",
+      "konteinerL": "C3",
+      "hind": "6"
+      },
+      {
+      "nameLatin": "Phlox paniculata",
+      "nameEst": "Floks/ leeklill",
+      "sort": "Irma Roosa, keskmine",
+      "konteinerL": "C3",
+      "hind": "6"
+      },
+      {
+      "nameLatin": "Astilbe",
+      "nameEst": "Astilbe",
+      "sort": "Irma Roosa, madal",
+      "konteinerL": "C3",
+      "hind": "6"
+      },
+      {
+      "nameLatin": "Paeonia",
+      "nameEst": "Pojeng",
+      "sort": "Irma segu",
+      "konteinerL": "C7",
+      "hind": "12"
+      },
+      {
+      "nameLatin": "Paeonia",
+      "nameEst": "Pojeng",
+      "sort": "Irma segu",
+      "konteinerL": "juuni",
+      "hind": "12"
+      },
+      {
+      "nameLatin": "Plox",
+      "nameEst": "Floks/ leeklill",
+      "sort": "Irma valge",
+      "konteinerL": "C3",
+      "hind": "6"
+      },
+      {
+      "nameLatin": "Ligularia dentata",
+      "nameEst": "Hambuline kobarpea",
+      "sort": "Irma",
+      "konteinerL": "C2",
+      "hind": "4"
+      },
+      {
+      "nameLatin": "Eupatorium ",
+      "nameEst": "Vesikanep",
+      "sort": "Irma",
+      "konteinerL": "C3",
+      "hind": "6"
+      },
+      {
+      "nameLatin": "Eupatorium ",
+      "nameEst": "Vesikanep",
+      "sort": "Irma",
+      "konteinerL": "C5",
+      "hind": "8"
+      },{
+        "nameLatin": "Aconitum napellus",
+        "nameEst": "Sinine käoking",
+        "sort": "Irma",
+        "konteinerL": "C3",
+        "hind": "6"
+        },
+        {
+        "nameLatin": "Hemerocallis",
+        "nameEst": "Aed-päevaliilia",
+        "sort": "Sammy Russell",
+        "konteinerL": "C3",
+        "hind": "4"
+        },
+        {
+        "nameLatin": "Iris × germanica",
+        "nameEst": "Aediiris",
+        "sort": "Irma",
+        "konteinerL": "juuni",
+        "hind": "6"
+        },
+        {
+        "nameLatin": "Iris spuria L. ",
+        "nameEst": "Sooiiris",
+        "sort": "Irma",
+        "konteinerL": "C3,5",
+        "hind": "6"
+        },
+        {
+        "nameLatin": "Hemerocallis",
+        "nameEst": "Aed-päevaliilia",
+        "sort": "Stella de Oro",
+        "konteinerL": "C3",
+        "hind": "4"
+        },
+        {
+        "nameLatin": "Hemerocallis",
+        "nameEst": "Aed-päevaliilia",
+        "sort": "Stella de Oro",
+        "konteinerL": "C4",
+        "hind": "4"
+        },
+        {
+        "nameLatin": "Hemerocallis",
+        "nameEst": "Aed-päevaliilia",
+        "sort": "Irma",
+        "konteinerL": "C3",
+        "hind": "6"
+        },
+        {
+        "nameLatin": "Hemerocallis",
+        "nameEst": "Aed-päevaliilia",
+        "sort": "Irma",
+        "konteinerL": "C3",
+        "hind": "6"
+        },
+        {
+        "nameLatin": "Hemerocallis citrina",
+        "nameEst": "Sidrunkollane päevaliilia",
+        "sort": "Irma",
+        "konteinerL": "C4",
+        "hind": "6"
+        },
+        {
+        "nameLatin": "Hemerocallis fulva",
+        "nameEst": "Ruuge päevaliilia",
+        "sort": "Irma",
+        "konteinerL": "juuni",
+        "hind": "4"
+        },
+        {
+        "nameLatin": "Hemerocallis fulva",
+        "nameEst": "Ruuge päevaliilia",
+        "sort": "",
+        "konteinerL": "C3",
+        "hind": "6"
+        },
+        {
+        "nameLatin": "Hosta",
+        "nameEst": "Hosta",
+        "sort": "Irma",
+        "konteinerL": "C3",
+        "hind": "3"
+        },
+        {
+        "nameLatin": "Hosta",
+        "nameEst": "Hosta",
+        "sort": "Irma",
+        "konteinerL": "C3",
+        "hind": "3"
+        },
+        {
+        "nameLatin": "Hosta",
+        "nameEst": "Hosta",
+        "sort": "Irma",
+        "konteinerL": "C3",
+        "hind": "3"
+        },
+        {
+        "nameLatin": "Hosta",
+        "nameEst": "Hosta",
+        "sort": "Irma",
+        "konteinerL": "C3",
+        "hind": "3"
+        },
+        {
+        "nameLatin": "Bergenia cordifolia",
+        "nameEst": "Südajalehine bergeenia",
+        "sort": "Irma roosa",
+        "konteinerL": "C5",
+        "hind": "5"
+        },
+        {
+        "nameLatin": "Bergenia cordifolia",
+        "nameEst": "Südajalehine bergeenia",
+        "sort": "Irma roosa",
+        "konteinerL": "C3",
+        "hind": "3"
+        },
+        {
+        "nameLatin": "Vinca minor",
+        "nameEst": "Väike igihali",
+        "sort": "sinine",
+        "konteinerL": "C3",
+        "hind": "3"
+        },
+        {
+        "nameLatin": "Viola sororia",
+        "nameEst": "Liblikas kannike ",
+        "sort": "Irma valge",
+        "konteinerL": "C3",
+        "hind": "3"
+        },
+        {
+        "nameLatin": "Viola sororia",
+        "nameEst": "Liblikas kannike ",
+        "sort": "Irma valge",
+        "konteinerL": "C1.5",
+        "hind": "2"
+        },
+        {
+        "nameLatin": "Epimedium x rubrum",
+        "nameEst": "Punane epimeedium",
+        "sort": "Irma",
+        "konteinerL": "C3",
+        "hind": "3"
+        },
+        {
+        "nameLatin": "Heuchera",
+        "nameEst": "Helmikpööris",
+        "sort": "Irma",
+        "konteinerL": "C3",
+        "hind": "3"
+        },
+        {
+        "nameLatin": "Brunnera macrophylla",
+        "nameEst": "Suurelehine brunnera",
+        "sort": "Irma",
+        "konteinerL": "C3",
+        "hind": "3"
+        },
+        {
+        "nameLatin": "Alchemilla erythropoda",
+        "nameEst": "Punaraag- Kortsleht",
+        "sort": "Irma",
+        "konteinerL": "C2",
+        "hind": "2"
+        },
+        {
+        "nameLatin": "Epimedium x rubrum",
+        "nameEst": "Punane epimeedium",
+        "sort": "Irma",
+        "konteinerL": "juuni",
+        "hind": "3"
+        },
+        {
+          "nameLatin": "Covallaria majalis",
+          "nameEst": "Harilik maikelluke",
+          "sort": "Irma",
+          "konteinerL": "C2",
+          "hind": "2"
+          },
+          {
+          "nameLatin": "Hosta",
+          "nameEst": "Hosta",
+          "sort": "Irma",
+          "konteinerL": "C3",
+          "hind": "3"
+          },
+          {
+          "nameLatin": "Hosta",
+          "nameEst": "Hosta",
+          "sort": "Irma",
+          "konteinerL": "C3",
+          "hind": "3"
+          },
+          {
+          "nameLatin": "Hosta",
+          "nameEst": "Hosta",
+          "sort": "Irma",
+          "konteinerL": "C3",
+          "hind": "3"
+          },
+          {
+          "nameLatin": "Hosta",
+          "nameEst": "Hosta",
+          "sort": "Irma",
+          "konteinerL": "C3",
+          "hind": "3"
+          },
+          {
+          "nameLatin": "Bergenia cordifolia",
+          "nameEst": "Südajalehine bergeenia",
+          "sort": "Irma roosa",
+          "konteinerL": "C5",
+          "hind": "7"
+          },
+          {
+          "nameLatin": "Bergenia cordifolia",
+          "nameEst": "Südajalehine bergeenia",
+          "sort": "Irma roosa",
+          "konteinerL": "C3",
+          "hind": "7"
+          },
+          {
+          "nameLatin": "Epimedium x rubrum",
+          "nameEst": "Punane epimeedium",
+          "sort": "Irma",
+          "konteinerL": "C3",
+          "hind": "3"
+          },
+          {
+          "nameLatin": "Heuchera",
+          "nameEst": "Helmikpööris",
+          "sort": "Irma",
+          "konteinerL": "C3",
+          "hind": "3"
+          },
+          {
+          "nameLatin": "Brunnera macrophylla",
+          "nameEst": "Suurelehine brunnera",
+          "sort": "Irma",
+          "konteinerL": "C3",
+          "hind": "3"
+          },
+          {
+          "nameLatin": "Alchemilla erythropoda",
+          "nameEst": "Punaraag- Kortsleht",
+          "sort": "Irma",
+          "konteinerL": "C2",
+          "hind": "2"
+          },
+          {
+          "nameLatin": "Epimedium x rubrum",
+          "nameEst": "Punane epimeedium",
+          "sort": "Irma",
+          "konteinerL": "juuni",
+          "hind": "3"
+          },
+          {
+          "nameLatin": "Covallaria majalis",
+          "nameEst": "Harilik maikelluke",
+          "sort": "Irma",
+          "konteinerL": "C2",
+          "hind": "2"
+          },
+          {
+          "nameLatin": "Solidago",
+          "nameEst": "Kuldvits",
+          "sort": "Irma madal",
+          "konteinerL": "C3",
+          "hind": "3"
+          },
+          {
+          "nameLatin": "Viola sororia",
+          "nameEst": "Liblikas kannike ",
+          "sort": "Irma valge",
+          "konteinerL": "C3",
+          "hind": "3"
+          },
+          {
+          "nameLatin": "Viola sororia",
+          "nameEst": "Liblikas kannike ",
+          "sort": "Irma valge",
+          "konteinerL": "C1.5",
+          "hind": "2"
+          },
+          {
+          "nameLatin": "Viola sororia",
+          "nameEst": "Liblikas kannike ",
+          "sort": "Irma helesinine",
+          "konteinerL": "C2",
+          "hind": "2"
+          },
+          {
+          "nameLatin": "Hosta",
+          "nameEst": "Hosta",
+          "sort": "Irma Golden Tiara",
+          "konteinerL": "C4",
+          "hind": "4"
+          },
+          {
+          "nameLatin": "Hosta",
+          "nameEst": "Hosta",
+          "sort": "Irma Halcyon",
+          "konteinerL": "C3",
+          "hind": "4"
+          },
+          {
+          "nameLatin": "Hosta",
+          "nameEst": "Hosta",
+          "sort": "Irma Halcyon",
+          "konteinerL": "C3",
+          "hind": "4.8"
+          },
+          {
+          "nameLatin": "Astrantia major",
+          "nameEst": "Suur tähtputk",
+          "sort": "Irma valge",
+          "konteinerL": "C2",
+          "hind": "5"
+          },
+          {
+          "nameLatin": "Aconitum lycoctonum lasiostomum",
+          "nameEst": "Kollane käoking",
+          "sort": "",
+          "konteinerL": "C3,5",
+          "hind": "IPK"
+          },
+          {
+          "nameLatin": "Euphorbia palustris",
+          "nameEst": "Soo-piimalill",
+          "sort": "Irma",
+          "konteinerL": "pj",
+          "hind": "7"
+          },
+          {
+          "nameLatin": "Heliopsis helianthoides",
+          "nameEst": "Kare päikesesilm",
+          "sort": "Irma",
+          "konteinerL": "C3,5",
+          "hind": "7"
+          },
+          {
+          "nameLatin": "Astilboides tabularis",
+          "nameEst": "Laudleht",
+          "sort": "Irma",
+          "konteinerL": "C7",
+          "hind": "13"
+          },
+          {
+            "nameLatin": "Rodgersia aesculifolia",
+            "nameEst": "Hobukastanilehine rodgersia",
+            "sort": "Irma",
+            "konteinerL": "C5",
+            "hind": "9"
+            },
+            {
+            "nameLatin": "Rodgersia aesculifolia",
+            "nameEst": "Hobukastanilehine rodgersia",
+            "sort": "Irma",
+            "konteinerL": "C7",
+            "hind": "13"
+            },
+            {
+            "nameLatin": "Aruncus dioicus",
+            "nameEst": "Harilik kitseenelas ",
+            "sort": "Irma",
+            "konteinerL": "juuni",
+            "hind": "IPK"
+            },
+            {
+            "nameLatin": "Sanguisorbia officinalis",
+            "nameEst": "Ürt-punanupp",
+            "sort": "Irma",
+            "konteinerL": "C3,5",
+            "hind": "7"
+            },
+            {
+            "nameLatin": "Symphyotrichum",
+            "nameEst": "Sügisaster",
+            "sort": "Irma roosa",
+            "konteinerL": "c5",
+            "hind": "9"
+            },
+            {
+            "nameLatin": "Aster umbellata",
+            "nameEst": "Sarikaster/ sirmaster",
+            "sort": "Irma",
+            "konteinerL": "C3.5",
+            "hind": "IPK"
+            },
+            {
+            "nameLatin": "Rhodiola rosea",
+            "nameEst": "Roosilõhnaline kuldjuur",
+            "sort": "Irma",
+            "konteinerL": "C3",
+            "hind": "6"
+            },
+            {
+            "nameLatin": "Phlox maculata",
+            "nameEst": "Laiguline leeklill",
+            "sort": "Irma Helelilla",
+            "konteinerL": "C3",
+            "hind": "7"
+            },
+            {
+            "nameLatin": "Phlox paniculata",
+            "nameEst": "Floks/ leeklill",
+            "sort": "Irma Helelilla",
+            "konteinerL": "C2",
+            "hind": "5"
+            },
+            {
+            "nameLatin": "Heliopsis helianthoides",
+            "nameEst": "Kare päikesesilm",
+            "sort": "Irma",
+            "konteinerL": "C3,5",
+            "hind": "7"
+            },
+            {
+            "nameLatin": "Sanguisorba",
+            "nameEst": "Punanupp",
+            "sort": "Irma kõrge, punane",
+            "konteinerL": "C3,5",
+            "hind": "8"
+            },
+            {
+            "nameLatin": "Sanguisorba",
+            "nameEst": "Punanupp",
+            "sort": "Irma kõrge,valge",
+            "konteinerL": "C3.5",
+            "hind": "8"
+            },
+            {
+            "nameLatin": "Phlox paniculata",
+            "nameEst": "Floks/ leeklill",
+            "sort": "Irma Punane keskmine",
+            "konteinerL": "pj",
+            "hind": "3"
+            },
+            {
+            "nameLatin": "Phlox paniculata",
+            "nameEst": "Floks/ leeklill",
+            "sort": "Irma Punane keskmine",
+            "konteinerL": "C1,5",
+            "hind": "3"
+            },
+            {
+            "nameLatin": "Astrantia major",
+            "nameEst": "Suur tähtputk",
+            "sort": "Irma valge",
+            "konteinerL": "C2",
+            "hind": "5"
+            },
+            {
+            "nameLatin": "Aconitum lycoctonum lasiostomum",
+            "nameEst": "Kollane käoking",
+            "sort": "",
+            "konteinerL": "C3,5",
+            "hind": "IPK"
+            },
+            {
+            "nameLatin": "Euphorbia palustris",
+            "nameEst": "Soo-piimalill",
+            "sort": "Irma",
+            "konteinerL": "pj",
+            "hind": "7"
+            },
+            {
+            "nameLatin": "Saxifraga x urbium",
+            "nameEst": "Linnakivirik",
+            "sort": "Irma roosa õis",
+            "konteinerL": "C1,5",
+            "hind": "3"
+            },
+            {
+            "nameLatin": "Astilboides tabularis",
+            "nameEst": "Laudleht",
+            "sort": "Irma",
+            "konteinerL": "C7",
+            "hind": "13"
+            },
+            {
+            "nameLatin": "Rodgersia aesculifolia",
+            "nameEst": "Hobukastanilehine rodgersia",
+            "sort": "Irma",
+            "konteinerL": "C5",
+            "hind": "9"
+            },
+            {
+            "nameLatin": "Rodgersia aesculifolia",
+            "nameEst": "Hobukastanilehine rodgersia",
+            "sort": "Irma",
+            "konteinerL": "C7",
+            "hind": "13"
+            },
+            {
+            "nameLatin": "Aruncus dioicus",
+            "nameEst": "Harilik kitseenelas ",
+            "sort": "Irma",
+            "konteinerL": "juuni",
+            "hind": "IPK"
+            },
+            {
+            "nameLatin": "Phlox paniculata",
+            "nameEst": "Floks/ leeklill",
+            "sort": "Irma Tumelilla",
+            "konteinerL": "C3",
+            "hind": "7"
+            },
+            {
+            "nameLatin": "Sanguisorbia officinalis",
+            "nameEst": "Ürt-punanupp",
+            "sort": "Irma",
+            "konteinerL": "C3,5",
+            "hind": "7"
+            },
+            {
+            "nameLatin": "Phlox paniculata",
+            "nameEst": "Floks/ leeklill",
+            "sort": "Irma valge, kõrge",
+            "konteinerL": "C5",
+            "hind": "9"
+            },            
+{
+  "nameLatin": "Aster umbellata",
+  "nameEst": "Sarikaster/ sirmaster",
+  "sort": "Irma",
+  "konteinerL": "C3.5",
+  "hind": "IPK"
+  },
+  {
+  "nameLatin": "Rhodiola rosea",
+  "nameEst": "Roosilõhnaline kuldjuur",
+  "sort": "Irma",
+  "konteinerL": "C3",
+  "hind": "7"
+  },
+  {
+  "nameLatin": "Symphyotrichum",
+  "nameEst": "Sügisaster",
+  "sort": "Irma Helesinine",
+  "konteinerL": "C5",
+  "hind": "9"
+  },
+  {
+  "nameLatin": "Symphyotrichum",
+  "nameEst": "Sügisaster",
+  "sort": "Irma roosa",
+  "konteinerL": "c5",
+  "hind": "9"
+  },
+  {
+  "nameLatin": "Aconitum napellus",
+  "nameEst": "Sinine käoking",
+  "sort": "Irma Album",
+  "konteinerL": "C3,5",
+  "hind": "7"
+  },
+  {
+  "nameLatin": "Acontium x cammarum",
+  "nameEst": "Värdkäoking e. Stoerki käoking",
+  "sort": "Irma Bicolor",
+  "konteinerL": "C3",
+  "hind": "7"
+  },
+  {
+  "nameLatin": "Liatris spicata",
+  "nameEst": "Tähkjas liatris",
+  "sort": "Floristan Weiss seemik",
+  "konteinerL": "C3",
+  "hind": "7"
+  },
+  {
+  "nameLatin": "Rudbeckia fulgida",
+  "nameEst": "Särav päevakübar",
+  "sort": "Irma Goldsturm",
+  "konteinerL": "C3",
+  "hind": "7"
+  },
+  {
+  "nameLatin": "Acontium x cammarum",
+  "nameEst": "Värdkäoking e. Stoerki käoking",
+  "sort": "Irma Bicolor",
+  "konteinerL": "C3,5",
+  "hind": "7"
+  },
+  {
+  "nameLatin": "Liatris spicata",
+  "nameEst": "Tähkjas liatris",
+  "sort": "Irma Kobold",
+  "konteinerL": "C3",
+  "hind": "5"
+  },
+  {
+  "nameLatin": "Hemerocallis",
+  "nameEst": "Aed-päevaliilia",
+  "sort": "Irma Nob Hill?",
+  "konteinerL": "juuni",
+  "hind": "IPK"
+  },
+  {
+  "nameLatin": "Bergenia cordifolia",
+  "nameEst": "Südajalehine bergeenia",
+  "sort": "Irma Silberlicht",
+  "konteinerL": "C3",
+  "hind": "6"
+  },
+  {
+  "nameLatin": "Bergenia cordifolia",
+  "nameEst": "Südajalehine bergeenia",
+  "sort": "Silberlicht",
+  "konteinerL": "C3",
+  "hind": "6"
+  },
+  {
+  "nameLatin": "Aconitum",
+  "nameEst": "Käoking",
+  "sort": "Irma Album",
+  "konteinerL": "C3,5",
+  "hind": "IPK"
+  },
+  {
+  "nameLatin": "Echinacea purpurea",
+  "nameEst": "Purpur siilikübar",
+  "sort": "Irma White Swan",
+  "konteinerL": "C3",
+  "hind": "7"
+  },
+  {
+  "nameLatin": "Vinca minor",
+  "nameEst": "Väike igihali",
+  "sort": "Sinine",
+  "konteinerL": "C3",
+  "hind": "6"
+  }
+]

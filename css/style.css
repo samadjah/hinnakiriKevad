@@ -1,0 +1,104 @@
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&family=Roboto:ital,wght@0,100..900;1,100..900&family=Rubik:ital,wght@0,300..900;1,300..900&family=Yusei+Magic&display=swap');
+
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Roboto", sans-serif;
+}
+
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Roboto", sans-serif;
+}
+
+
+.container {
+  width: 100%;
+}
+
+.container h1 {
+  margin: 0;
+  padding: 0;
+  font-size: 48px;
+  font-weight:400 ;
+  padding: 20px;
+
+}
+thead {
+  text-transform: uppercase;
+  padding-bottom: 62px;
+}
+
+
+table {
+    border-collapse:collapse;
+    width: 1200px;
+    box-sizing: border-box;
+    padding: 20px;
+  }
+  
+  table.table tr.uperpall{
+    border-top:5px solid rgb(218, 17, 17);
+  }
+  
+  caption {
+    caption-side:bottom; 
+     margin-top: 32px;
+  }
+  
+  
+  
+  .liters {
+    width: 10%;
+    /* border-color: blue; */
+  }
+  .price {
+    width: 5%;
+    /* border-color: blue; */
+  }
+  
+  .name {
+    width: 20%;
+  }
+  .nameEst {
+    width: 20%;
+      }
+
+      .sort {
+        width: 10%;
+      }
+      
+      th {
+        padding-bottom: 6px;
+        padding-top: 6px;
+        height: 32px;
+        border-bottom: solid 1px;
+        text-align: start;
+        padding-left: 20px;
+      }
+      
+      tr {
+        text-align: start;
+      }
+      
+      
+      /* tr .startRow{
+        border: solid px;
+        border-bottom-color: rgb(101, 38, 164);
+      } */
+      
+      td {
+        color: rgb(31, 30, 32);
+        border-bottom: solid px;
+        padding: 8px;
+        padding-left: 20px;
+        /* padding-right: 20px; */
+      }
+      
+   
