@@ -1,0 +1,865 @@
+<div class="contentainer">
+    <h1 id="title">Irma Tungal taimed</h1>
+    
+    <table>
+      <caption>Igavere puukooli taimede müük 2025 kevad</caption>
+      <thead>
+        <tr>
+          <th data-sort="nameLatin" class="name">Ladinakeelne nimi</th>
+          <th data-sort="nameEst" class="nameEst">Eestikeelne nimi</th>
+          <th data-sort="sort" class="sort">Sort</th>
+          <th data-sort="konteinerL" class="liters">Konteiner</th>
+          <th data-sort="hind" class="price">Hind</th>
+        </tr>
+      </thead>
+      
+      <!-- <tbody id="table-body"> -->
+        <tbody id="table-body"><tr>
+      <td>Aconitum</td>
+      <td>Käoking</td>
+      <td>Irma Album</td>
+      <td>C3,5</td>
+      <td>IPK</td>
+    </tr><tr>
+      <td>Aconitum lycoctonum lasiostomum</td>
+      <td>Kollane käoking</td>
+      <td></td>
+      <td>C3,5</td>
+      <td>IPK</td>
+    </tr><tr>
+      <td>Aconitum lycoctonum lasiostomum</td>
+      <td>Kollane käoking</td>
+      <td></td>
+      <td>C3,5</td>
+      <td>IPK</td>
+    </tr><tr>
+      <td>Aconitum napellus</td>
+      <td>Sinine käoking</td>
+      <td>Irma</td>
+      <td>C3</td>
+      <td>6</td>
+    </tr><tr>
+      <td>Aconitum napellus</td>
+      <td>Sinine käoking</td>
+      <td>Irma</td>
+      <td>C3</td>
+      <td>6</td>
+    </tr><tr>
+      <td>Aconitum napellus</td>
+      <td>Sinine käoking</td>
+      <td>Irma Album</td>
+      <td>C3,5</td>
+      <td>7</td>
+    </tr><tr>
+      <td>Acontium x cammarum</td>
+      <td>Värdkäoking e. Stoerki käoking</td>
+      <td>Irma Bicolor</td>
+      <td>C3</td>
+      <td>7</td>
+    </tr><tr>
+      <td>Acontium x cammarum</td>
+      <td>Värdkäoking e. Stoerki käoking</td>
+      <td>Irma Bicolor</td>
+      <td>C3,5</td>
+      <td>7</td>
+    </tr><tr>
+      <td>Alchemilla erythropoda</td>
+      <td>Punaraag- Kortsleht</td>
+      <td>Irma</td>
+      <td>C2</td>
+      <td>2</td>
+    </tr><tr>
+      <td>Alchemilla erythropoda</td>
+      <td>Punaraag- Kortsleht</td>
+      <td>Irma</td>
+      <td>C2</td>
+      <td>2</td>
+    </tr><tr>
+      <td>Aruncus dioicus</td>
+      <td>Harilik kitseenelas </td>
+      <td>Irma</td>
+      <td>juuni</td>
+      <td>IPK</td>
+    </tr><tr>
+      <td>Aruncus dioicus</td>
+      <td>Harilik kitseenelas </td>
+      <td>Irma</td>
+      <td>juuni</td>
+      <td>IPK</td>
+    </tr><tr>
+      <td>Aster umbellata</td>
+      <td>Sarikaster/ sirmaster</td>
+      <td>Irma</td>
+      <td>C3.5</td>
+      <td>IPK</td>
+    </tr><tr>
+      <td>Aster umbellata</td>
+      <td>Sarikaster/ sirmaster</td>
+      <td>Irma</td>
+      <td>C3.5</td>
+      <td>IPK</td>
+    </tr><tr>
+      <td>Astilbe</td>
+      <td>Astilbe</td>
+      <td>Irma Roosa, madal</td>
+      <td>C3</td>
+      <td>6</td>
+    </tr><tr>
+      <td>Astilbe</td>
+      <td>Astilbe</td>
+      <td>Irma Roosa, madal</td>
+      <td>C3</td>
+      <td>6</td>
+    </tr><tr>
+      <td>Astilboides tabularis</td>
+      <td>Laudleht</td>
+      <td>Irma</td>
+      <td>C7</td>
+      <td>13</td>
+    </tr><tr>
+      <td>Astilboides tabularis</td>
+      <td>Laudleht</td>
+      <td>Irma</td>
+      <td>C7</td>
+      <td>13</td>
+    </tr><tr>
+      <td>Astrantia major</td>
+      <td>Suur tähtputk</td>
+      <td>Irma punane</td>
+      <td>C3</td>
+      <td>6</td>
+    </tr><tr>
+      <td>Astrantia major</td>
+      <td>Suur tähtputk</td>
+      <td>Irma metsaäärets</td>
+      <td>pj</td>
+      <td>4</td>
+    </tr><tr>
+      <td>Astrantia major</td>
+      <td>Suur tähtputk</td>
+      <td>Irma punane</td>
+      <td>C3</td>
+      <td>6</td>
+    </tr><tr>
+      <td>Astrantia major</td>
+      <td>Suur tähtputk</td>
+      <td>Irma valge</td>
+      <td>C2</td>
+      <td>5</td>
+    </tr><tr>
+      <td>Astrantia major</td>
+      <td>Suur tähtputk</td>
+      <td>Irma valge</td>
+      <td>C2</td>
+      <td>5</td>
+    </tr><tr>
+      <td>Bergenia cordifolia</td>
+      <td>Südajalehine bergeenia</td>
+      <td>Irma roosa</td>
+      <td>juuni</td>
+      <td>4</td>
+    </tr><tr>
+      <td>Bergenia cordifolia</td>
+      <td>Südajalehine bergeenia</td>
+      <td>Irma roosa</td>
+      <td>juuni</td>
+      <td>4</td>
+    </tr><tr>
+      <td>Bergenia cordifolia</td>
+      <td>Südajalehine bergeenia</td>
+      <td>Irma roosa</td>
+      <td>C5</td>
+      <td>5</td>
+    </tr><tr>
+      <td>Bergenia cordifolia</td>
+      <td>Südajalehine bergeenia</td>
+      <td>Irma roosa</td>
+      <td>C3</td>
+      <td>3</td>
+    </tr><tr>
+      <td>Bergenia cordifolia</td>
+      <td>Südajalehine bergeenia</td>
+      <td>Irma roosa</td>
+      <td>C5</td>
+      <td>7</td>
+    </tr><tr>
+      <td>Bergenia cordifolia</td>
+      <td>Südajalehine bergeenia</td>
+      <td>Irma roosa</td>
+      <td>C3</td>
+      <td>7</td>
+    </tr><tr>
+      <td>Bergenia cordifolia</td>
+      <td>Südajalehine bergeenia</td>
+      <td>Irma Silberlicht</td>
+      <td>C3</td>
+      <td>6</td>
+    </tr><tr>
+      <td>Bergenia cordifolia</td>
+      <td>Südajalehine bergeenia</td>
+      <td>Silberlicht</td>
+      <td>C3</td>
+      <td>6</td>
+    </tr><tr>
+      <td>Brunnera macrophylla</td>
+      <td>Suurelehine brunnera</td>
+      <td>Irma</td>
+      <td>C3</td>
+      <td>3</td>
+    </tr><tr>
+      <td>Brunnera macrophylla</td>
+      <td>Suurelehine brunnera</td>
+      <td>Irma</td>
+      <td>C3</td>
+      <td>3</td>
+    </tr><tr>
+      <td>Centaurea dealbata</td>
+      <td>Valkjas jumikas</td>
+      <td>Irma hall</td>
+      <td>juuni</td>
+      <td>4</td>
+    </tr><tr>
+      <td>Covallaria majalis</td>
+      <td>Harilik maikelluke</td>
+      <td>Irma</td>
+      <td>C2</td>
+      <td>2</td>
+    </tr><tr>
+      <td>Covallaria majalis</td>
+      <td>Harilik maikelluke</td>
+      <td>Irma</td>
+      <td>C2</td>
+      <td>2</td>
+    </tr><tr>
+      <td>Echinacea purpurea</td>
+      <td>Purpur siilikübar</td>
+      <td>Irma White Swan</td>
+      <td>C3</td>
+      <td>7</td>
+    </tr><tr>
+      <td>Epimedium x rubrum</td>
+      <td>Punane epimeedium</td>
+      <td>Irma</td>
+      <td>C3</td>
+      <td>3</td>
+    </tr><tr>
+      <td>Epimedium x rubrum</td>
+      <td>Punane epimeedium</td>
+      <td>Irma</td>
+      <td>juuni</td>
+      <td>3</td>
+    </tr><tr>
+      <td>Epimedium x rubrum</td>
+      <td>Punane epimeedium</td>
+      <td>Irma</td>
+      <td>C3</td>
+      <td>3</td>
+    </tr><tr>
+      <td>Epimedium x rubrum</td>
+      <td>Punane epimeedium</td>
+      <td>Irma</td>
+      <td>juuni</td>
+      <td>3</td>
+    </tr><tr>
+      <td>Eupatorium </td>
+      <td>Vesikanep</td>
+      <td>Irma</td>
+      <td>C3</td>
+      <td>6</td>
+    </tr><tr>
+      <td>Eupatorium </td>
+      <td>Vesikanep</td>
+      <td>Irma</td>
+      <td>C5</td>
+      <td>8</td>
+    </tr><tr>
+      <td>Eupatorium </td>
+      <td>Vesikanep</td>
+      <td>Irma</td>
+      <td>C3</td>
+      <td>6</td>
+    </tr><tr>
+      <td>Eupatorium </td>
+      <td>Vesikanep</td>
+      <td>Irma</td>
+      <td>C5</td>
+      <td>8</td>
+    </tr><tr>
+      <td>Euphorbia palustris</td>
+      <td>Soo-piimalill</td>
+      <td>Irma</td>
+      <td>pj</td>
+      <td>7</td>
+    </tr><tr>
+      <td>Euphorbia palustris</td>
+      <td>Soo-piimalill</td>
+      <td>Irma</td>
+      <td>pj</td>
+      <td>7</td>
+    </tr><tr>
+      <td>Helenium autumnale</td>
+      <td>Sügisheleenium</td>
+      <td>Irma</td>
+      <td>C3</td>
+      <td>6</td>
+    </tr><tr>
+      <td>Helenium autumnale</td>
+      <td>Sügisheleenium</td>
+      <td>Irma</td>
+      <td>C3</td>
+      <td>6</td>
+    </tr><tr>
+      <td>Heliopsis helianthoides</td>
+      <td>Kare päikesesilm</td>
+      <td>Irma</td>
+      <td>juuni</td>
+      <td>4</td>
+    </tr><tr>
+      <td>Heliopsis helianthoides</td>
+      <td>Kare päikesesilm</td>
+      <td>Irma</td>
+      <td>juuni</td>
+      <td>4</td>
+    </tr><tr>
+      <td>Heliopsis helianthoides</td>
+      <td>Kare päikesesilm</td>
+      <td>Irma</td>
+      <td>C3,5</td>
+      <td>7</td>
+    </tr><tr>
+      <td>Heliopsis helianthoides</td>
+      <td>Kare päikesesilm</td>
+      <td>Irma</td>
+      <td>C3,5</td>
+      <td>7</td>
+    </tr><tr>
+      <td>Hemerocallis</td>
+      <td>Aed-päevaliilia</td>
+      <td>Irma</td>
+      <td>C3</td>
+      <td>6</td>
+    </tr><tr>
+      <td>Hemerocallis</td>
+      <td>Aed-päevaliilia</td>
+      <td>Irma</td>
+      <td>C3</td>
+      <td>6</td>
+    </tr><tr>
+      <td>Hemerocallis</td>
+      <td>Aed-päevaliilia</td>
+      <td>Irma kollane?</td>
+      <td>C3</td>
+      <td>4</td>
+    </tr><tr>
+      <td>Hemerocallis</td>
+      <td>Aed-päevaliilia</td>
+      <td>Irma Midendorff</td>
+      <td>juuni</td>
+      <td>6</td>
+    </tr><tr>
+      <td>Hemerocallis</td>
+      <td>Aed-päevaliilia</td>
+      <td>Sammy Russell</td>
+      <td>C3</td>
+      <td>4</td>
+    </tr><tr>
+      <td>Hemerocallis</td>
+      <td>Aed-päevaliilia</td>
+      <td>Stella de Oro</td>
+      <td>C3</td>
+      <td>4</td>
+    </tr><tr>
+      <td>Hemerocallis</td>
+      <td>Aed-päevaliilia</td>
+      <td>Stella de Oro</td>
+      <td>C4</td>
+      <td>4</td>
+    </tr><tr>
+      <td>Hemerocallis</td>
+      <td>Aed-päevaliilia</td>
+      <td>Irma</td>
+      <td>C3</td>
+      <td>6</td>
+    </tr><tr>
+      <td>Hemerocallis</td>
+      <td>Aed-päevaliilia</td>
+      <td>Irma</td>
+      <td>C3</td>
+      <td>6</td>
+    </tr><tr>
+      <td>Hemerocallis</td>
+      <td>Aed-päevaliilia</td>
+      <td>Irma Nob Hill?</td>
+      <td>juuni</td>
+      <td>IPK</td>
+    </tr><tr>
+      <td>Hemerocallis citrina</td>
+      <td>Sidrunkollane päevaliilia</td>
+      <td>Irma</td>
+      <td>C4</td>
+      <td>6</td>
+    </tr><tr>
+      <td>Hemerocallis citrina</td>
+      <td>Sidrunkollane päevaliilia</td>
+      <td>Irma</td>
+      <td>C4</td>
+      <td>6</td>
+    </tr><tr>
+      <td>Hemerocallis fulva</td>
+      <td>Ruuge päevaliilia</td>
+      <td>Irma</td>
+      <td>juuni</td>
+      <td>4</td>
+    </tr><tr>
+      <td>Hemerocallis fulva</td>
+      <td>Ruuge päevaliilia</td>
+      <td>Irma</td>
+      <td>C3</td>
+      <td>6</td>
+    </tr><tr>
+      <td>Hemerocallis fulva</td>
+      <td>Ruuge päevaliilia</td>
+      <td>Irma</td>
+      <td>juuni</td>
+      <td>4</td>
+    </tr><tr>
+      <td>Hemerocallis fulva</td>
+      <td>Ruuge päevaliilia</td>
+      <td></td>
+      <td>C3</td>
+      <td>6</td>
+    </tr><tr>
+      <td>Heuchera</td>
+      <td>Helmikpööris</td>
+      <td>Irma</td>
+      <td>C3</td>
+      <td>3</td>
+    </tr><tr>
+      <td>Heuchera</td>
+      <td>Helmikpööris</td>
+      <td>Irma</td>
+      <td>C3</td>
+      <td>3</td>
+    </tr><tr>
+      <td>Hosta</td>
+      <td>Hosta</td>
+      <td>Irma Suur roheline</td>
+      <td>juuni</td>
+      <td>4</td>
+    </tr><tr>
+      <td>Hosta</td>
+      <td>Hosta</td>
+      <td>Irma üks</td>
+      <td>pj</td>
+      <td>4</td>
+    </tr><tr>
+      <td>Hosta</td>
+      <td>Hosta</td>
+      <td>Irma üks</td>
+      <td>pj</td>
+      <td>4</td>
+    </tr><tr>
+      <td>Hosta</td>
+      <td>Hosta</td>
+      <td>Irma</td>
+      <td>C3</td>
+      <td>3</td>
+    </tr><tr>
+      <td>Hosta</td>
+      <td>Hosta</td>
+      <td>Irma</td>
+      <td>C3</td>
+      <td>3</td>
+    </tr><tr>
+      <td>Hosta</td>
+      <td>Hosta</td>
+      <td>Irma</td>
+      <td>C3</td>
+      <td>3</td>
+    </tr><tr>
+      <td>Hosta</td>
+      <td>Hosta</td>
+      <td>Irma</td>
+      <td>C3</td>
+      <td>3</td>
+    </tr><tr>
+      <td>Hosta</td>
+      <td>Hosta</td>
+      <td>Irma</td>
+      <td>C3</td>
+      <td>3</td>
+    </tr><tr>
+      <td>Hosta</td>
+      <td>Hosta</td>
+      <td>Irma</td>
+      <td>C3</td>
+      <td>3</td>
+    </tr><tr>
+      <td>Hosta</td>
+      <td>Hosta</td>
+      <td>Irma</td>
+      <td>C3</td>
+      <td>3</td>
+    </tr><tr>
+      <td>Hosta</td>
+      <td>Hosta</td>
+      <td>Irma</td>
+      <td>C3</td>
+      <td>3</td>
+    </tr><tr>
+      <td>Hosta</td>
+      <td>Hosta</td>
+      <td>Irma Golden Tiara</td>
+      <td>C4</td>
+      <td>4</td>
+    </tr><tr>
+      <td>Hosta</td>
+      <td>Hosta</td>
+      <td>Irma Halcyon</td>
+      <td>C3</td>
+      <td>4</td>
+    </tr><tr>
+      <td>Hosta</td>
+      <td>Hosta</td>
+      <td>Irma Halcyon</td>
+      <td>C3</td>
+      <td>4.8</td>
+    </tr><tr>
+      <td>Iris siberica</td>
+      <td>Siberi iiris</td>
+      <td>Irma</td>
+      <td>saadaval juunis</td>
+      <td>6</td>
+    </tr><tr>
+      <td>iris siberica</td>
+      <td>Siberi iiris</td>
+      <td>Irma</td>
+      <td>C3,5</td>
+      <td>6</td>
+    </tr><tr>
+      <td>Iris siberica</td>
+      <td>Siberi iiris</td>
+      <td>Irma</td>
+      <td>juuni</td>
+      <td>6</td>
+    </tr><tr>
+      <td>iris siberica</td>
+      <td>Siberi iiris</td>
+      <td>Irma</td>
+      <td>C3,5</td>
+      <td>6</td>
+    </tr><tr>
+      <td>Iris spuria L. </td>
+      <td>Sooiiris</td>
+      <td>Irma</td>
+      <td>C3,5</td>
+      <td>6</td>
+    </tr><tr>
+      <td>Iris spuria L. </td>
+      <td>Sooiiris</td>
+      <td>Irma</td>
+      <td>C3,5</td>
+      <td>6</td>
+    </tr><tr>
+      <td>Iris × germanica</td>
+      <td>Aediiris</td>
+      <td>Irma</td>
+      <td>juuni</td>
+      <td>4</td>
+    </tr><tr>
+      <td>Iris × germanica</td>
+      <td>Aediiris</td>
+      <td>Irma</td>
+      <td>juuni</td>
+      <td>6</td>
+    </tr><tr>
+      <td>Liatris spicata</td>
+      <td>Tähkjas liatris</td>
+      <td>Irma</td>
+      <td>C3</td>
+      <td>6</td>
+    </tr><tr>
+      <td>Liatris spicata</td>
+      <td>Tähkjas liatris</td>
+      <td>Irma</td>
+      <td>C3</td>
+      <td>6</td>
+    </tr><tr>
+      <td>Liatris spicata</td>
+      <td>Tähkjas liatris</td>
+      <td>Floristan Weiss seemik</td>
+      <td>C3</td>
+      <td>7</td>
+    </tr><tr>
+      <td>Liatris spicata</td>
+      <td>Tähkjas liatris</td>
+      <td>Irma Kobold</td>
+      <td>C3</td>
+      <td>5</td>
+    </tr><tr>
+      <td>Ligularia dentata</td>
+      <td>Hambuline kobarpea</td>
+      <td>Irma</td>
+      <td>C2</td>
+      <td>4</td>
+    </tr><tr>
+      <td>Ligularia dentata</td>
+      <td>Hambuline kobarpea</td>
+      <td>Irma</td>
+      <td>C2</td>
+      <td>4</td>
+    </tr><tr>
+      <td>Paeonia</td>
+      <td>Pojeng</td>
+      <td>Irma segu</td>
+      <td>C7</td>
+      <td>12</td>
+    </tr><tr>
+      <td>Paeonia</td>
+      <td>Pojeng</td>
+      <td>Irma segu</td>
+      <td>juuni</td>
+      <td>12</td>
+    </tr><tr>
+      <td>Paeonia</td>
+      <td>Pojeng</td>
+      <td>Irma segu</td>
+      <td>C7</td>
+      <td>12</td>
+    </tr><tr>
+      <td>Paeonia</td>
+      <td>Pojeng</td>
+      <td>Irma segu</td>
+      <td>juuni</td>
+      <td>12</td>
+    </tr><tr>
+      <td>Phlox maculata</td>
+      <td>Laiguline leeklill</td>
+      <td>Irma Helelilla</td>
+      <td>C3</td>
+      <td>7</td>
+    </tr><tr>
+      <td>Phlox paniculata</td>
+      <td>Floks/ leeklill</td>
+      <td>Irma roosa</td>
+      <td>C3.5</td>
+      <td>6</td>
+    </tr><tr>
+      <td>Phlox paniculata</td>
+      <td>Floks/ leeklill</td>
+      <td>Irma Roosa, keskmine</td>
+      <td>C3</td>
+      <td>6</td>
+    </tr><tr>
+      <td>Phlox paniculata</td>
+      <td>Floks/ leeklill</td>
+      <td>Irma valge</td>
+      <td>C3</td>
+      <td>6</td>
+    </tr><tr>
+      <td>Phlox paniculata</td>
+      <td>Floks/ leeklill</td>
+      <td>Irma punane mustast kastist</td>
+      <td>C3</td>
+      <td>6</td>
+    </tr><tr>
+      <td>Phlox paniculata</td>
+      <td>Floks/ leeklill</td>
+      <td>Irma roosa</td>
+      <td>C3.5</td>
+      <td>6</td>
+    </tr><tr>
+      <td>Phlox paniculata</td>
+      <td>Floks/ leeklill</td>
+      <td>Irma Roosa, keskmine</td>
+      <td>C3</td>
+      <td>6</td>
+    </tr><tr>
+      <td>Phlox paniculata</td>
+      <td>Floks/ leeklill</td>
+      <td>Irma Helelilla</td>
+      <td>C2</td>
+      <td>5</td>
+    </tr><tr>
+      <td>Phlox paniculata</td>
+      <td>Floks/ leeklill</td>
+      <td>Irma Punane keskmine</td>
+      <td>pj</td>
+      <td>3</td>
+    </tr><tr>
+      <td>Phlox paniculata</td>
+      <td>Floks/ leeklill</td>
+      <td>Irma Punane keskmine</td>
+      <td>C1,5</td>
+      <td>3</td>
+    </tr><tr>
+      <td>Phlox paniculata</td>
+      <td>Floks/ leeklill</td>
+      <td>Irma Tumelilla</td>
+      <td>C3</td>
+      <td>7</td>
+    </tr><tr>
+      <td>Phlox paniculata</td>
+      <td>Floks/ leeklill</td>
+      <td>Irma valge, kõrge</td>
+      <td>C5</td>
+      <td>9</td>
+    </tr><tr>
+      <td>Plox</td>
+      <td>Floks/ leeklill</td>
+      <td>Irma valge</td>
+      <td>C3</td>
+      <td>6</td>
+    </tr><tr>
+      <td>Rhodiola rosea</td>
+      <td>Roosilõhnaline kuldjuur</td>
+      <td>Irma</td>
+      <td>C3</td>
+      <td>6</td>
+    </tr><tr>
+      <td>Rhodiola rosea</td>
+      <td>Roosilõhnaline kuldjuur</td>
+      <td>Irma</td>
+      <td>C3</td>
+      <td>7</td>
+    </tr><tr>
+      <td>Rodgersia aesculifolia</td>
+      <td>Hobukastanilehine rodgersia</td>
+      <td>Irma</td>
+      <td>C5</td>
+      <td>9</td>
+    </tr><tr>
+      <td>Rodgersia aesculifolia</td>
+      <td>Hobukastanilehine rodgersia</td>
+      <td>Irma</td>
+      <td>C7</td>
+      <td>13</td>
+    </tr><tr>
+      <td>Rodgersia aesculifolia</td>
+      <td>Hobukastanilehine rodgersia</td>
+      <td>Irma</td>
+      <td>C5</td>
+      <td>9</td>
+    </tr><tr>
+      <td>Rodgersia aesculifolia</td>
+      <td>Hobukastanilehine rodgersia</td>
+      <td>Irma</td>
+      <td>C7</td>
+      <td>13</td>
+    </tr><tr>
+      <td>Rudbeckia fulgida</td>
+      <td>Särav päevakübar</td>
+      <td>Irma Goldsturm</td>
+      <td>C3</td>
+      <td>7</td>
+    </tr><tr>
+      <td>Sanguisorba</td>
+      <td>Punanupp</td>
+      <td>Irma kõrge, punane</td>
+      <td>C3,5</td>
+      <td>8</td>
+    </tr><tr>
+      <td>Sanguisorba</td>
+      <td>Punanupp</td>
+      <td>Irma kõrge,valge</td>
+      <td>C3.5</td>
+      <td>8</td>
+    </tr><tr>
+      <td>Sanguisorbia officinalis</td>
+      <td>Ürt-punanupp</td>
+      <td>Irma</td>
+      <td>C3,5</td>
+      <td>7</td>
+    </tr><tr>
+      <td>Sanguisorbia officinalis</td>
+      <td>Ürt-punanupp</td>
+      <td>Irma</td>
+      <td>C3,5</td>
+      <td>7</td>
+    </tr><tr>
+      <td>Saxifraga x urbium</td>
+      <td>Linnakivirik</td>
+      <td>Irma roosa õis</td>
+      <td>C1,5</td>
+      <td>3</td>
+    </tr><tr>
+      <td>Solidago</td>
+      <td>Kuldvits</td>
+      <td>Irma madal</td>
+      <td>C3</td>
+      <td>3</td>
+    </tr><tr>
+      <td>Symphyotrichum</td>
+      <td>Sügisaster</td>
+      <td>Irma roosa</td>
+      <td>c5</td>
+      <td>9</td>
+    </tr><tr>
+      <td>Symphyotrichum</td>
+      <td>Sügisaster</td>
+      <td>Irma Helesinine</td>
+      <td>C5</td>
+      <td>9</td>
+    </tr><tr>
+      <td>Symphyotrichum</td>
+      <td>Sügisaster</td>
+      <td>Irma roosa</td>
+      <td>c5</td>
+      <td>9</td>
+    </tr><tr>
+      <td>Trollius europaeus</td>
+      <td>Harilik kullerkupp</td>
+      <td>Irma</td>
+      <td>C2</td>
+      <td>4</td>
+    </tr><tr>
+      <td>Trollius europaeus</td>
+      <td>Harilik kullerkupp</td>
+      <td>Irma</td>
+      <td>C2</td>
+      <td>4</td>
+    </tr><tr>
+      <td>Vinca minor</td>
+      <td>Väike igihali</td>
+      <td>sinine</td>
+      <td>C3</td>
+      <td>3</td>
+    </tr><tr>
+      <td>Vinca minor</td>
+      <td>Väike igihali</td>
+      <td>Sinine</td>
+      <td>C3</td>
+      <td>6</td>
+    </tr><tr>
+      <td>Viola sororia</td>
+      <td>Liblikas kannike </td>
+      <td>Irma valge</td>
+      <td>C3</td>
+      <td>3</td>
+    </tr><tr>
+      <td>Viola sororia</td>
+      <td>Liblikas kannike </td>
+      <td>Irma valge</td>
+      <td>C1.5</td>
+      <td>2</td>
+    </tr><tr>
+      <td>Viola sororia</td>
+      <td>Liblikas kannike </td>
+      <td>Irma valge</td>
+      <td>C3</td>
+      <td>3</td>
+    </tr><tr>
+      <td>Viola sororia</td>
+      <td>Liblikas kannike </td>
+      <td>Irma valge</td>
+      <td>C1.5</td>
+      <td>2</td>
+    </tr><tr>
+      <td>Viola sororia</td>
+      <td>Liblikas kannike </td>
+      <td>Irma helesinine</td>
+      <td>C2</td>
+      <td>2</td>
+    </tr></tbody>
+    </table>
+  </div>
