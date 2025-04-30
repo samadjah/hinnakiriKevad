@@ -64,14 +64,14 @@ table {
   }
   
   .name {
-    width: 30%;
+    width: 20%;
   }
   .nameEst {
     width: 20%;
       }
 
       .sort {
-        width: 10%;
+        width: 20%;
       }
       
       th {
